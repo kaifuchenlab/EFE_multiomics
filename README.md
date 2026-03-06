@@ -37,12 +37,12 @@ This repository supports the analysis of the **Endocardial Fibroelastosis (EFE)*
 | Script | Description |
 |------|------|
 | `1_Sample_Integrations_030126.R` | Integration of single-nucleus multiomics data with public datasets |
+| `1_ATAC_Integrations_030126.R` | Integration of single-nucleus ATAC datasets |
 | `1_SingleCell_Analysis_030126.R` | Core single-cell analysis pipeline |
 | `1_CellChat_GO_030126.R` | Cell–cell communication analysis and Gene Ontology (GO) enrichment analysis |
 | `1_MERFISH_analysis_030126.ipynb` | Spatial transcriptomics analysis (MERFISH), including cell type annotation and neighborhood enrichment |
 
 ---
-
 
 
 ## Citation
